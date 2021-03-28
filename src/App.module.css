@@ -1,0 +1,39 @@
+*{
+    margin: 10;
+    padding: 10;
+    box-sizing: border-box;
+  }
+  h1
+  {
+    background-color: GREEN;
+     color: aliceblue;
+    text-align: center;
+   
+  }
+  
+  h1  span{
+  
+    color: aqua;
+   
+  }
+  
+  img{
+    border-radius: 50%;
+    position: relative;
+    margin-top: 150px;
+    top: 150%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+  }
+  
+  
+  button{
+    background-color: black;
+    color: beige;
+    margin-top: 15px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    margin-left: 500px;
+    padding: 10px;
+  }
